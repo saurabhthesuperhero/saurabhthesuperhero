@@ -10,8 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm damn lazy but I can code 24hrs
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurabhthesuperhero&count_private=true&show_icons=true)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhthesuperhero&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhthesuperhero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
