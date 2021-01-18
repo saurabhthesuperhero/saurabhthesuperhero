@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://therealsaurabh.com 
 - ⚡ Fun fact: I'm damn lazy but I can code 24hrs
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saurabhthesuperhero)](https://github.com/anuraghazra/github-readme-stats)
